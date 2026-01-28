@@ -1,7 +1,7 @@
 :root {
     --bg-sand: #fdfaf3;       /* Fondo arena muy claro */
     --card-paper: #ffffff;    /* Fondo de la gráfica y header */
-    --text-brown: #4a3f35;    /* Café oscuro para el texto (se ve más fino que el negro) */
+    --text-brown: #4a3f35;    /* Café oscuro para el texto */
     --accent-sand: #e8e2d6;   /* Gris arena para bordes sutiles */
     --btn-sand: #dcd4c6;      /* Color de botón */
     --hot-red: #e74c3c;
